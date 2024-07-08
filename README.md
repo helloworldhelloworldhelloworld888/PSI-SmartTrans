@@ -1,10 +1,4 @@
 ## ==========SMARTTRANS===========
-## ==========SMARTTRANS===========
-## ==========SMARTTRANS===========
-## ==========SMARTTRANS===========
-## ==========SMARTTRANS===========
-## ==========SMARTTRANS===========
-## ==========SMARTTRANS===========
 
 1. Clone the repository:
    ```
@@ -44,8 +38,4 @@ To run <Project_Name>, follow these steps:
 2. Open your web browser and visit `http://localhost:8000`.
 
 ## ==========SMARTTRANS===========
-## ==========SMARTTRANS===========
-## ==========SMARTTRANS===========
-## ==========SMARTTRANS===========
-## ==========SMARTTRANS===========
-## ==========SMARTTRANS===========
+
