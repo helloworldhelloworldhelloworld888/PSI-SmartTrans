@@ -2,11 +2,11 @@
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/<Project_Name>.git
+   [git clone https://github.com/your-username/<Project_Name>.git](https://github.com/helloworldhelloworldhelloworld888/PSI-SmartTrans.git)
    ```
 2. Navigate to the project directory:
    ```
-   cd <Project_Name>
+   cd PSI-SmartTrans
    ```
 3. Install dependencies:
    ```
